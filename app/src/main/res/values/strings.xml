@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Treny</string>
+    <string name="button">Ввести ответ</string>
+    <string name="textView">Где вы обучаетесь?</string>
+    <string name="textview">TextView</string>
+    <string name="textView2">Неизвестно</string>
+    <string name="textView3">Введите название университета</string>
+    <string name="button2">Отправить</string>
+</resources>
